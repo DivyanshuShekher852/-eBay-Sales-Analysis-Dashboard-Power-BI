@@ -150,7 +150,7 @@ Through this project, I strengthened my understanding of:
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights through SQL, Power BI, Excel, and Python.
 
-* 💼 LinkedIn: *(Add your LinkedIn profile)*
+
 * 💻 GitHub: https://github.com/DivyanshuShekher852
 
 ---
